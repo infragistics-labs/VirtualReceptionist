@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entries>
+  <entry lastName="Smith"      firstName="Josh"    isCompany="false" email="josh@contoso.com"    />
+  <entry lastName="Bujak"      firstName="Greg"    isCompany="false" email="greg@contoso.com"    />
+  <entry lastName="Crafton"    firstName="Jim"     isCompany="false" email="crafton@contoso.com" />
+  <entry lastName="Nolan"      firstName="Jordan"  isCompany="false" email="jordan@contoso.com"  />
+  <entry lastName="Hinkson"    firstName="Grant"   isCompany="false" email="hinkson@contoso.com" />
+  <entry lastName="Shifflett"  firstName="Karl"    isCompany="false" email="kdawg@contoso.com"   />
+  <entry lastName="Walker"     firstName="Wilfred" isCompany="false" email="will@contoso.com"    />
+  <entry lastName="McCort"     firstName="Denise"  isCompany="false" email="denise@contoso.com"  />
+
+  <entry lastName="" firstName="Alfreds Futterkiste" isCompany="true" email="maria@contoso.com"   />
+  <entry lastName="" firstName="Eastern Connection"  isCompany="true" email="ann@contoso.com"     />
+  <entry lastName="" firstName="Hanari Carnes"       isCompany="true" email="alex@contoso.com"   />
+  <entry lastName="" firstName="Königlich Essen"     isCompany="true" email="philip@contoso.com"  />
+</entries>

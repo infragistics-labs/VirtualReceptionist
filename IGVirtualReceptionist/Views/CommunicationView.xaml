@@ -1,0 +1,24 @@
+﻿<v:ViewBase x:Class="IGVirtualReceptionist.Views.CommunicationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+			 xmlns:v="clr-namespace:IGVirtualReceptionist.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="800">
+
+    <Border BorderThickness="6" BorderBrush="Gray">
+        <Grid Name="Container" Background="White">
+            <Canvas x:Name="VideoPane" Background="DarkGray" Visibility="Collapsed"></Canvas>
+            <DockPanel Name="ConfirmationContainer">
+                <Label Name="ConfirmationLabel" DockPanel.Dock="Top" >
+                    <TextBlock x:Name="ConfirmationTextBlock" HorizontalAlignment="Center" Text="Would you like to initiate a video call with NAME?" TextWrapping="WrapWithOverflow" FontSize="36"></TextBlock>
+                </Label>
+                <UniformGrid Rows="1" Columns="2">
+                    <Button Name="Yes_Btn" Background="Green" Width="300" Height="200"  FontSize="36" Click="Yes_Btn_Click">Yes</Button>
+                    <Button Name="No_Btn" Background="Red" Width="300" Height="200"  FontSize="36" Click="No_Btn_Click">No</Button>                    
+                </UniformGrid>
+            </DockPanel>
+        </Grid>
+    </Border>
+</v:ViewBase>

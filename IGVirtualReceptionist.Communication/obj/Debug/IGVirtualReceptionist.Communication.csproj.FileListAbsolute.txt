@@ -1,0 +1,7 @@
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\bin\Debug\IGVirtualReceptionist.Communication.dll
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\bin\Debug\IGVirtualReceptionist.Communication.pdb
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\bin\Debug\Microsoft.Lync.Model.dll
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\bin\Debug\Microsoft.Lync.Utilities.dll
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\obj\Debug\IGVirtualReceptionist.Communication.csprojResolveAssemblyReference.cache
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\obj\Debug\IGVirtualReceptionist.Communication.dll
+C:\Workspace\Development\BlueSkyDays\2015\IGVirtualReceptionist\Source\IGVirtualReceptionist.Communication\obj\Debug\IGVirtualReceptionist.Communication.pdb
